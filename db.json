@@ -1,0 +1,138 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Lavitan Mais A-z Com 90 Comprimidos",
+      "quantity": 8,
+      "price": "34.95",
+      "url": "https://ibb.co/pXnv9Pq"
+    },
+    {
+      "id": 2,
+      "name": "Ômega 3-120 cápsulas - Catarinense",
+      "quantity": 10,
+      "price": "79.99",
+      "url": "https://ibb.co/FDvxs0J"
+    },
+    {
+      "id": 3,
+      "name": "Desodorante Antitranspirante Aerosol Dove Beauty Finish - Edição Limitada 150ml",
+      "quantity": 26,
+      "price": "12.90",
+      "url": "https://ibb.co/Xzf0nvn"
+    },
+    {
+      "id": 4,
+      "name": "Ypê - Esponja Multiuso , 3 unidades , pacote",
+      "quantity": 26,
+      "price": "6.99",
+      "url": "https://ibb.co/YW688Y6"
+    }
+  ],
+  "betterOffer": [
+    {
+      "id": 1,
+      "name": "Dermacyd Sabonete líquido íntimo Delicata 24h, 200 ml",
+      "quantity": 5,
+      "price": "18.37",
+      "discountAmount": 0.75,
+      "url": "https://ibb.co/LnV6pbK"
+    },
+    {
+      "id": 2,
+      "name": "Sabonete em Barra Protex Erva Doce 200g, Protex",
+      "quantity": 12,
+      "price": "6.26",
+      "discountAmount": 0.75,
+      "url": "https://ibb.co/gDGgN1S"
+    },
+    {
+      "id": 3,
+      "name": "Sabonete Intimo 250ml, Di Larouffe",
+      "quantity": 12,
+      "price": "73.40",
+      "discountAmount": 0.75,
+      "url": "https://ibb.co/Sr6Mywx"
+    },
+    {
+      "id": 4,
+      "name": "Sabonete Em Barra Palmolive Naturals Sensação Luminosa 85G",
+      "quantity": 22,
+      "price": "15.80",
+      "discountAmount": 0.75,
+      "url": "https://ibb.co/stSc7cK"
+    }
+  ],
+  "previouslyPurchased": [
+    {
+      "id": 1,
+      "name": "Dove Original - Sabonete, 90g",
+      "quantity": 10,
+      "price": "5.49",
+      "discountAmount": 0.15,
+      "url": "https://ibb.co/6yCbbLd"
+    },
+    {
+      "id": 2,
+      "name": "Clear Men Limpeza Diaria 2 Em 1 - Shampoo Anticaspa, 400Ml",
+      "quantity": 10,
+      "price": "22.99",
+      "discountAmount": 0.12,
+      "url": "https://ibb.co/SBsRKy4"
+    },
+    {
+      "id": 3,
+      "name": "Creme Dental Colgate Total 12 Clean Mint 2 unidades de 180g",
+      "quantity": 10,
+      "price": "23.18",
+      "discountAmount": 0.10,
+      "url": "https://ibb.co/26f8KHN"
+    },
+    {
+      "id": 4,
+      "name": "Talco Antisséptico 80G Tradicional Unit, Barla",
+      "quantity": 12,
+      "price": "6.39",
+      "discountAmount": 0.20,
+      "url": "https://ibb.co/xfKqx6B"
+    }
+  ],
+  "highlightsWeek": [
+    {
+      "id": 1,
+      "name": "Creme Dental Closeup Triple Hortela 70G",
+      "quantity": 12,
+      "price": "2.51",
+      "discountAmount": 0.10,
+      "url": "https://ibb.co/px2Ddm7",
+      "stars": 4
+    },
+    {
+      "id": 2,
+      "name": "Granado Polvilho Antisséptico Sport, Azul, 100G",
+      "quantity": 22,
+      "price": "10.89",
+      "discountAmount": 0.10,
+      "url": "https://ibb.co/HF2kk07",
+      "stars": 3
+    },
+    {
+      "id": 3,
+      "name": "Escova Três Fileiras (Cor dos Itens Pode Variar), Hair Bonitinho Marilu, Azul, Hair Bonitinho Marilu",
+      "quantity": 22,
+      "price": "2.89",
+      "discountAmount": 0.05,
+      "url": "https://ibb.co/wd5RgrK",
+      "stars": 5
+    },
+    {
+      "id": 4,
+      "name": "Fio Dental Classic Floss Tradicional 125 M, Menta, Power Dent, Power Dent",
+      "quantity": 22,
+      "price": "7.59",
+      "discountAmount": 0.05,
+      "url": "https://ibb.co/tKFr1F4",
+      "stars": 5
+    }
+  ]
+}
