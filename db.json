@@ -5,28 +5,28 @@
       "name": "Lavitan Mais A-z Com 90 Comprimidos",
       "quantity": 8,
       "price": "34.95",
-      "url": "https://ibb.co/pXnv9Pq"
+      "url": "https://i.ibb.co/kcMgWyZ/lavitan.jpg"
     },
     {
       "id": 2,
       "name": "Ômega 3-120 cápsulas - Catarinense",
       "quantity": 10,
       "price": "79.99",
-      "url": "https://ibb.co/FDvxs0J"
+      "url": "https://i.ibb.co/2k2n8sP/omega3.jpg"
     },
     {
       "id": 3,
       "name": "Desodorante Antitranspirante Aerosol Dove Beauty Finish - Edição Limitada 150ml",
       "quantity": 26,
       "price": "12.90",
-      "url": "https://ibb.co/Xzf0nvn"
+      "url": "https://i.ibb.co/xMK9nRn/dove.jpg"
     },
     {
       "id": 4,
       "name": "Ypê - Esponja Multiuso , 3 unidades , pacote",
       "quantity": 26,
       "price": "6.99",
-      "url": "https://ibb.co/YW688Y6"
+      "url": "https://i.ibb.co/4fcMM9c/ype.jpg"
     }
   ],
   "betterOffer": [
@@ -36,7 +36,7 @@
       "quantity": 5,
       "price": "18.37",
       "discountAmount": 0.75,
-      "url": "https://ibb.co/LnV6pbK"
+      "url": "https://i.ibb.co/kQN0ckZ/dermacyd.jpg"
     },
     {
       "id": 2,
@@ -44,7 +44,7 @@
       "quantity": 12,
       "price": "6.26",
       "discountAmount": 0.75,
-      "url": "https://ibb.co/gDGgN1S"
+      "url": "https://i.ibb.co/RC1Hfn3/protex.jpg"
     },
     {
       "id": 3,
@@ -52,7 +52,7 @@
       "quantity": 12,
       "price": "73.40",
       "discountAmount": 0.75,
-      "url": "https://ibb.co/Sr6Mywx"
+      "url": "https://i.ibb.co/NSFJC23/sabonete.jpg"
     },
     {
       "id": 4,
@@ -60,7 +60,7 @@
       "quantity": 22,
       "price": "15.80",
       "discountAmount": 0.75,
-      "url": "https://ibb.co/stSc7cK"
+      "url": "https://i.ibb.co/kMnzZz4/palmolive.jpg"
     }
   ],
   "previouslyPurchased": [
@@ -70,7 +70,7 @@
       "quantity": 10,
       "price": "5.49",
       "discountAmount": 0.15,
-      "url": "https://ibb.co/6yCbbLd"
+      "url": "https://i.ibb.co/VL4DD5K/dove2.jpg"
     },
     {
       "id": 2,
@@ -78,7 +78,7 @@
       "quantity": 10,
       "price": "22.99",
       "discountAmount": 0.12,
-      "url": "https://ibb.co/SBsRKy4"
+      "url": "https://i.ibb.co/9W8sqgk/cleanmen.jpg"
     },
     {
       "id": 3,
@@ -86,7 +86,7 @@
       "quantity": 10,
       "price": "23.18",
       "discountAmount": 0.10,
-      "url": "https://ibb.co/26f8KHN"
+      "url": "https://i.ibb.co/W3YDKjt/colgate.jpg"
     },
     {
       "id": 4,
@@ -94,7 +94,7 @@
       "quantity": 12,
       "price": "6.39",
       "discountAmount": 0.20,
-      "url": "https://ibb.co/xfKqx6B"
+      "url": "https://i.ibb.co/txwpVDv/barla.jpg"
     }
   ],
   "highlightsWeek": [
@@ -104,7 +104,7 @@
       "quantity": 12,
       "price": "2.51",
       "discountAmount": 0.10,
-      "url": "https://ibb.co/px2Ddm7",
+      "url": "https://i.ibb.co/6mYhFdM/closeup.jpg",
       "stars": 4
     },
     {
@@ -113,7 +113,7 @@
       "quantity": 22,
       "price": "10.89",
       "discountAmount": 0.10,
-      "url": "https://ibb.co/HF2kk07",
+      "url": "https://i.ibb.co/Wx3YYQn/granado.jpg",
       "stars": 3
     },
     {
@@ -122,7 +122,7 @@
       "quantity": 22,
       "price": "2.89",
       "discountAmount": 0.05,
-      "url": "https://ibb.co/wd5RgrK",
+      "url": "https://i.ibb.co/0nHc2Vf/escova.jpg",
       "stars": 5
     },
     {
@@ -131,7 +131,7 @@
       "quantity": 22,
       "price": "7.59",
       "discountAmount": 0.05,
-      "url": "https://ibb.co/tKFr1F4",
+      "url": "https://i.ibb.co/nmtJKtb/fiodental.jpg",
       "stars": 5
     }
   ]
